@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nilesh+Theekshana;Full+Stack+Developer+%7C+Security+Researcher;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nilesh+Theekshana;Developer+%7C+Security+Researcher;Building+Secure+%26+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,36 +17,9 @@
   
   🎓 **BSc Industrial Information Technology** | Uva Wellassa University, Sri Lanka
   
-  🔒 **CCNA Certified** | 🐛 **Bug Bounty Hunter** | 💼 **Available for Hire**
+  🔒 **CCNA Certified** | 🐛 **Bug Bounty Hunter** | 💻 **Full Stack Developer**
   
 </div>
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Development Services
-- **Web Design & Development**
-- **Telegram Bot Solutions**
-- **Custom Software Development**
-- **API Integration & Automation**
-
-</td>
-<td width="50%">
-
-### 🔒 Security Services
-- **Penetration Testing**
-- **Vulnerability Assessment**
-- **Security Audits**
-- **Server Hardening**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -96,29 +69,13 @@
 
 ---
 
-## 💼 Why Work With Me?
+## 💡 Focus Areas
 
-<div align="center">
-
-| ✅ Fast Delivery | ✅ Clean Code | ✅ 24/7 Support |
-|:---:|:---:|:---:|
-| **Security First** | **Scalable Solutions** | **Transparent Communication** |
-
-</div>
+**Web Development** • **Telegram Bots** • **Cybersecurity** • **Penetration Testing** • **Server Management**
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
-  
-  ### 💬 Ready to start your project?
-  
-  **Drop me a message on Telegram or Email**
-  
-  [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Available_Now-00C853?style=for-the-badge)](mailto:nileshtheekshana@gmail.com)
-  
-  <br>
   
   <img src="https://komarev.com/ghpvc/?username=nileshtheekshana&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
