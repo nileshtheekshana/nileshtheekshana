@@ -55,10 +55,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshtheekshana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshtheekshana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
