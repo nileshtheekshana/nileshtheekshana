@@ -7,7 +7,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-@cryptohodlee2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryptohodlee2)
   [![Email](https://img.shields.io/badge/Email-nileshtheekshana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshtheekshana@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/nilesh-theekshana-16291a156)
-  [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nilesh.theekshana/?locale=ms_MY)
+  [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theekshana.nilesh/?locale=ms_MY)
   
 </div>
 
